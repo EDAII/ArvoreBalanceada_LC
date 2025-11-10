@@ -43,6 +43,18 @@ tsc caminho/para/arquivo.ts --target ES2020 --module commonjs
 node caminho/para/arquivo.js
 ```
 
+## Capturas de Tela
+
+### Questão 1382. Balance a Binary Search Tree
+
+#### Exemplo 1
+
+![1382. Balance a Binary Search Tree](https://github.com/user-attachments/assets/636f1815-333a-41c1-a677-5171b5fdc456)
+
+#### Exemplo 2
+
+![1382. Balance a Binary Search Tree](https://github.com/user-attachments/assets/1c9de8cb-1e14-40bd-b52d-e007a3b73d42)
+
 ---
 
 ## Capturas de tela
