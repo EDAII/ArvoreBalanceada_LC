@@ -1,1 +1,48 @@
-# ArvoreBalanceada_LC
+# ArvoreBalanceada_LC 🌳
+
+## Alunos
+
+| Matrícula  | Nome              |
+| ---------- | ----------------- |
+| 21/1061832 | Harleny Angéllica |
+| 21/1061331 | Alana Gabriele    |
+
+---
+
+## Sobre
+
+Este projeto tem como objetivo resolver questões do LeetCode sobre Árvores AVL utilizando a linguagem de programação Python e TypeScript. Abaixo, estão listadas as questões selecionadas, com seus respectivos níveis de dificuldade e vídeos explicativos da resolução.
+
+### Questões
+
+| Nome                                                                                                                                                                           | Nível   | Vídeo                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------------------------------- |
+| [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=problem-list-v2&envId=tree)                               | Média   | [Vídeo]() |
+| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)                                                     | Difícil | [Vídeo]() |
+
+
+---
+
+### Dependências do projeto
+
+- Python 3.10+ instalado e acessível via `python3`.
+- Node.js 18+ (LTS) e `npm` para executar soluções em TypeScript.
+- TypeScript (`tsc`) e, opcionalmente, `ts-node` para rodar `.ts` sem compilar.
+
+### Como executar o projeto
+
+```
+# Python
+python3 caminho/para/arquivo.py
+
+# TypeScript (com ts-node)
+ts-node caminho/para/arquivo.ts
+
+# TypeScript (compilar e rodar com Node)
+tsc caminho/para/arquivo.ts --target ES2020 --module commonjs
+node caminho/para/arquivo.js
+```
+
+---
+
+## Capturas de tela
