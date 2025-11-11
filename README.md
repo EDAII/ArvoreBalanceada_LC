@@ -17,8 +17,8 @@ Este projeto tem como objetivo resolver questões do LeetCode sobre Árvores AVL
 
 | Nome                                                                                                                                                                           | Nível   | Vídeo                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------------------------------- |
-| [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=problem-list-v2&envId=tree)                               | Média   | [Vídeo]() |
-| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)                                                     | Difícil | [Vídeo]() |
+| [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=problem-list-v2&envId=tree)                               | Média   | [Vídeo](https://youtu.be/RsEO7a79ATQ) |
+| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)                                                     | Difícil | [Vídeo](https://youtu.be/AtXGvos7HWA) |
 
 
 ---
