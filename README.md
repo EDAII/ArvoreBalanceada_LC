@@ -15,12 +15,12 @@ Este projeto tem como objetivo resolver questões do LeetCode sobre Árvores AVL
 
 ### Questões
 
-| Nome                                                                                                                                             | Nível   | Vídeo                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------------------------------- |
-| [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=problem-list-v2&envId=tree) | Média   | [Vídeo]()                             |
-| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                 | Difícil | [Vídeo](https://youtu.be/Edp1VZ-RNf8) |
-| [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                               | Difícil | [Vídeo](https://youtu.be/Edp1VZ-RNf8) |
-| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)                       | Difícil | [Vídeo]()                             |
+| Nome                                                                                                                                                                           | Nível   | Vídeo                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | -------------------------------------- |
+| [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=problem-list-v2&envId=tree)                               | Média   | [Vídeo](https://youtu.be/RsEO7a79ATQ)  |
+| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                                              | Difícil | [Vídeo](https://youtu.be/Edp1VZ-RNf8)  |
+| [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                                             | Difícil | [Vídeo](https://youtu.be/Edp1VZ-RNf8)  |
+| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)                                                     | Difícil | [Vídeo](https://youtu.be/AtXGvos7HWA)  |
 
 ---
 
