@@ -57,4 +57,16 @@ node caminho/para/arquivo.js
 
 ---
 
-## Capturas de tela
+### Questão 315. Count of Smaller Numbers After Self
+
+#### Exemplo 1
+
+![315. Count of Smaller Numbers After Self](https://github.com/user-attachments/assets/5eefb674-4412-4eb4-b4de-0740d1bd4e0d)
+
+#### Exemplo 2
+
+![315. Count of Smaller Numbers After Self](https://github.com/user-attachments/assets/27d65c3b-2911-4f5c-a61f-7528bdc265ad)
+
+#### Exemplo 3
+
+![315. Count of Smaller Numbers After Self](https://github.com/user-attachments/assets/a0c1678c-18c2-4046-bec1-95b244ab3572)
